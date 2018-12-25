@@ -5,7 +5,7 @@ function goMap () {
   if ($('#map').length) {
         // Styles a map in night mode.
         var map = new google.maps.Map(document.getElementById('map'), {
-          center: {lat: 40.925372, lng: -74.276544},
+          center: {lat: 51.8979282, lng: -8.4705806},
           zoom: 12,
           scrollwheel: false,
           styles: [ {
